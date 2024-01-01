@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/digitalbujo/static/css/main.f855e6bc.css",
-    "main.js": "/digitalbujo/static/js/main.c63163ba.js",
-    "static/js/787.8ce3c665.chunk.js": "/digitalbujo/static/js/787.8ce3c665.chunk.js",
-    "static/media/logo.svg": "/digitalbujo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/digitalbujo/index.html",
-    "main.f855e6bc.css.map": "/digitalbujo/static/css/main.f855e6bc.css.map",
-    "main.c63163ba.js.map": "/digitalbujo/static/js/main.c63163ba.js.map",
-    "787.8ce3c665.chunk.js.map": "/digitalbujo/static/js/787.8ce3c665.chunk.js.map"
+    "main.css": "/digitalbujo-web/static/css/main.f855e6bc.css",
+    "main.js": "/digitalbujo-web/static/js/main.ba03b26d.js",
+    "static/js/787.8ce3c665.chunk.js": "/digitalbujo-web/static/js/787.8ce3c665.chunk.js",
+    "static/media/logo.svg": "/digitalbujo-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/digitalbujo-web/index.html",
+    "main.f855e6bc.css.map": "/digitalbujo-web/static/css/main.f855e6bc.css.map",
+    "main.ba03b26d.js.map": "/digitalbujo-web/static/js/main.ba03b26d.js.map",
+    "787.8ce3c665.chunk.js.map": "/digitalbujo-web/static/js/787.8ce3c665.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c63163ba.js"
+    "static/js/main.ba03b26d.js"
   ]
 }
